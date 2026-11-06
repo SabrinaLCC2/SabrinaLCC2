@@ -5,7 +5,7 @@
 
 # 👩‍💻 Olá, eu sou Sabrina!
 
-### 🎓 Graduanda em Licenciatura em Ciências da Computação | IF Baiano
+### 🎓 Graduanda em Licenciatura em Ciências da Computação | I-F Baiano
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Software;Tecnologia+e+Educa%C3%A7%C3%A3o;Pensamento+Computacional;Inova%C3%A7%C3%A3o+e+Cultura+Maker" />

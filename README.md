@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Sabrina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tecnologia%20%7C%20Educa%C3%A7%C3%A3o%20%7C%20Inova%C3%A7%C3%A3o&descAlignY=55&descSize=18"/>
 
 # 👩‍💻 Olá, eu sou Sabrina!
 
-### 🎓 Graduanda em Licenciatura em Ciências da Computação | I-F Baiano
+### 🎓 Graduanda em Licenciatura em Ciências da Computação | I.F Baiano
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Software;Tecnologia+e+Educa%C3%A7%C3%A3o;Pensamento+Computacional;Inova%C3%A7%C3%A3o+e+Cultura+Maker" />
